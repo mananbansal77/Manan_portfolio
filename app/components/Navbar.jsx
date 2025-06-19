@@ -59,7 +59,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
   onClick={() => setIsDarkMode(prev => !prev)}
   className="p-2 rounded-full hover:bg-gray-200 transition"
 >
-  <Image src={isDarkMode ? assets.sun_icon : assets.moon_icon} alt="Toggle Dark Mode" className="w-6" />
+  {/* <Image src={isDarkMode ? assets.sun_icon : assets.moon_icon} alt="Toggle Dark Mode" className="w-6" /> */}
 </button>
 
             <a href="#contact" className='hidden lg:flex items-center gap-3 px-10 py-2.5 border border-gray-500 rounded-full ml-4 font-Ovo dark:border-white'>Contact<Image src={assets.arrow_icon} alt="" className='w-3'/></a>

@@ -80,24 +80,28 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
+        title: 'Frontend projects',
         description: 'Web Design',
         bgImage: '/work-1.png',
+        link:"https://github.com/mananbansal77/javascriptprojects",
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Machine Learning',
+        description: 'Brain tumor detection',
         bgImage: '/work-2.png',
+        link:"https://github.com/mananbansal77/Brain-Tumor",
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Finance manager',
+        description: 'in progress->>',
         bgImage: '/work-3.png',
+        // link:"https://www.youtube.com/",
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Resume Builder',
+        description: 'in progress->>',
         bgImage: '/work-4.png',
+        // link:"https://www.youtube.com/",
     },
 ]
 
