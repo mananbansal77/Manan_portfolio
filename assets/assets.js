@@ -106,7 +106,7 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.webi_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: 'https://www.youtube.com/watch?v=vEp28QApMl0' },
+    { icon: assets.webi_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
     { icon: assets.ml_icon, title: 'Machine learning', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
     { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
     { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
